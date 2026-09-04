@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mojtaba5496.twa",
+    "sha256_cert_fingerprints": [
+      "36:F3:86:33:9F:C8:B4:63:53:E2:64:92:C6:52:1A:8E:F0:54:AE:69:13:F4:5C:13:B6:8C:F7:87:55:11:1B:4E",
+      "F0:58:FB:F5:8D:5A:71:CB:88:0F:C7:E0:D3:94:7E:A5:BA:69:42:DE:4C:E7:36:E0:46:A9:1C:67:77:65:6D:D3"
+    ]
+  }
+}]
